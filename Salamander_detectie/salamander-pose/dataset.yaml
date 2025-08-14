@@ -1,0 +1,17 @@
+path: salamander-pose
+train: images/train
+val: images/val
+test: ''
+kpt_shape:
+- 6
+- 3
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+nc: 1
+names:
+- salamander

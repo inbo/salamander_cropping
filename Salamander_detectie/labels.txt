@@ -1,0 +1,7 @@
+headbasis
+rightforeleg
+righthindleg
+tailbasis
+lefthindleg
+leftforeleg
+salamander
