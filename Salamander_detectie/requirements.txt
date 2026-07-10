@@ -1,4 +1,4 @@
-﻿affine==2.4.0
+affine==2.4.0
 annotated-types==0.7.0
 asttokens==3.0.0
 attrs==25.1.0
@@ -96,7 +96,7 @@ seaborn==0.13.2
 setuptools
 shapely==2.0.7
 six==1.17.0
-soupsieve==2.6
+soupsieve==2.8.4
 stack-data==0.6.3
 sympy==1.13.1
 #sympy==1.13.3
