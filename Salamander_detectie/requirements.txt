@@ -22,7 +22,7 @@ fastjsonschema==2.21.1
 filelock==3.17.0
 flatbuffers==25.2.10
 fonttools==4.56.0
-gdown==5.2.0
+gdown==5.2.2
 geopandas==1.0.1
 humanfriendly==10.0
 idna==3.15
